@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FastCook</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_getStarted">Get started</string>
+    <string name="popular_tag">Popular tags </string>
+    <string name="breakfast">
+Breakfast
+</string>
+    <string name="salad">
+Salad
+</string>
+    <string name="pasta">
+Pasta
+</string>
+    <string name="sandwich">
+Sandwich
+</string>
+    <string name="soup">
+Soup
+</string>
+    <string name="pizza">
+Pizza
+</string>
+    <string name="healthy_rec">
+Healthy recipes
+</string>
+    <string name="vegan">
+Vegan
+    </string>
+    <string name="gluten_free">
+Gluten free
+</string>
+    <string name="desserts">
+Desserts
+</string>
+    <string name="seafood">
+Seafood
+</string>
+    <string name="categories">
+Categories
+</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="Click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="activity2">Activity2</string>
+
+</resources>
